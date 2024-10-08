@@ -1,11 +1,10 @@
-# ML_Project-Diabetes_Prediction
+# ML_Project-Diabetes_Prediction 💉💊
 
 This project explores the task of predicting diabetes onset using SVM, a powerful machine learning technique. By analyzing medical data, the model aims to distinguish between individuals who are likely to develop diabetes and those who are not.
 
 ## Data
 This directory stores the diabetes dataset, typically in CSV format. The dataset contains features such as:
 
-- **id** (unique identifier for each patient)
 - **Pregnancies** (number of pregnancies)
 - **Glucose** (glucose level)
 - **BloodPressure** (blood pressure value)
